@@ -10,7 +10,7 @@ img{
 	width:60px;
 	height:60px;
 }
-.link-boxes{
+div.link-boxes{
 	display:flex;
 	color:white;
 	
