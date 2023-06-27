@@ -1,4 +1,13 @@
 /* your code here */
+.media-icons{
+	display:flex;
+	justify-content:space-evenly;
+	
+	
+}
+.media-icons>div{
+	margin:5px;
+}
 body{
 	background-color:black;
 }
