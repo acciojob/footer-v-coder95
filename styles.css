@@ -1,1 +1,35 @@
 /* your code here */
+body{
+	background-color:black;
+}
+.top{
+	display:flex;
+	justify-content:space-between;
+}
+img{
+	width:60px;
+	height:60px;
+}
+.link-boxes{
+	display:flex;
+	color:white;
+	
+}
+.h1{
+	padding:30px;
+}
+.bottom-details{
+	display:flex;
+	justify-content:space-between;
+	background-color:grey;
+	padding:15px;
+	color:wheat;
+}
+a{
+	color:white;
+	
+}
+.logo_name{
+	color:white;
+	font-size:30px;
+}
